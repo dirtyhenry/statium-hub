@@ -1,1 +1,3 @@
-# statium-newsletter-hub
+# Statium Hub
+
+Voir et revoir du foot.
